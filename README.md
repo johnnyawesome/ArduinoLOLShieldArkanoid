@@ -1,2 +1,2 @@
 # ArduinoLOLShieldArkanoid
-Arduino Code for the LOLShield that plays Arkanoid
+Arduino Code for the LOLShield that plays like Arkanoid
